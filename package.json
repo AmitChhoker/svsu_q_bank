@@ -1,0 +1,29 @@
+{
+  "name": "svsuqbank",
+  "version": "1.0.0",
+  "description": "Next work:\n 1. Make the list for all semesters\n 2. Write the subject names for all semesters\n 3. Upload the question papers where available\n 4. Make the header for this website",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "firebase": "^11.6.1",
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-router": "^7.6.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitChhoker/svsuQBank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmitChhoker/svsuQBank/issues"
+  },
+  "homepage": "https://github.com/AmitChhoker/svsuQBank#readme"
+}
